@@ -1,4 +1,4 @@
-![효빵](../효빵.png)
+![효빵](../img/1/효빵.png)
 
 # 1. What is Virtual Machine (가상 머신)
 
